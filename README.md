@@ -14,6 +14,10 @@ dfx new hello
 ```
 then
 ```bash
+npm install
+```
+then
+```bash
 dfx start
 ```
 *split terminal*
